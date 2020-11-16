@@ -1,0 +1,13 @@
+[
+	{
+		"model":"api.data",
+		"pk":1,
+		"fields":{
+			"name":"Indonesia",	
+			"positif":"470,648",
+			"sembuh":"395,443",
+			"meninggal":"15,296",
+			"dirawat":"59,909"
+			}
+	}
+]
